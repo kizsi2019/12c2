@@ -40,10 +40,15 @@ button {
 
 h2{
   font-variant: small-caps;
+  color :darkblue;
   margin: 10px 0px 5px;
   border-bottom: 2px solid darkblue;
 }
 
 video{
-  width: 70%;
+  width: 100%;
+}
+
+nav{
+   font-weight:  bold;
 }
