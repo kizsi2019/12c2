@@ -4,7 +4,7 @@ sulinevek['giorgio'] = 'Giorgio Perlasca Kereskedelmi, Vendéglátóipari Szakk�
 sulinevek['keleti'] = 'Keleti Károly Közgazdasági Szakközépiskola';
 sulinevek['magyar'] = 'Magyar Gyula Kertészeti Szakközépiskola és Szakiskola';
 sulinevek['pataky'] = 'Pataky István Híradásipari és Informatikai Szakgimnázium';
-sulinevek['szlaszlo'] = 'Szent László Gimnázium';
+sulinevek['zrinyi'] = 'Zrinyi Miklós Gimnázium';
 
 function mutat(sulinev){    
     document.getElementById('sulikep').src = 'iskolak/'+sulinev+'.jpg';
