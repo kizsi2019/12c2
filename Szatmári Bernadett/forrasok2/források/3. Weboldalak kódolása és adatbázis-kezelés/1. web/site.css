@@ -72,15 +72,20 @@ h3 {
     font-size: 1.4rem;
 }
 
-.row > img{
+.row>img {
     height: 100%;
 }
 
 #avgspeed {
     background-image: url('img/circuits2019.jpg');
     text-shadow: 0.5px 0.5px #ff2800;
-}  
+}
 
-footer a, footer a:visited {
+footer a,
+footer a:visited {
     color: white;
+}
+
+.legek {
+    font-weight: bold;
 }
