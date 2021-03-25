@@ -36,21 +36,20 @@ function calculate() {
     if (laptimeSec && track) {
         switch (track) {
             case 'ITA':
-                document.getElementById('averagespeed').value = (5.793 / (laptimeSec / 3600)).toString() + ' km/h';
+                document.getElementById('averagespeed').value = (5.793 / (laptimeSec / 3600)).torString() + ' km/h';
                 break;
             case 'HUN':
-                document.getElementById('averagespeed').value = (4.381 / (laptimeSec / 3600)).toString() + ' km/h';
+                document.getElementById('averagespeed').value = (4.381 / (laptimeSec / 3600)).torString() + ' km/h';
                 break;
             case 'BEL':
-                document.getElementById('averagespeed').value = (7.004 / (laptimeSec / 3600)).toString() + ' km/h';
+                document.getElementById('averagespeed').value = (7.004 / (laptimeSec / 3600)).torString() + ' km/h';
                 break;
             case 'MON':
-                document.getElementById('averagespeed').value = (3.337 / (laptimeSec / 3600)).toString() + ' km/h';
+                document.getElementById('averagespeed').value = (3.337 / (laptimeSec / 3600)).torString() + ' km/h';
                 break;
 
             default:
                 break;
         }
     }
-
 }
