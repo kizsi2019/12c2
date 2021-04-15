@@ -1,0 +1,7 @@
+C:\Users\Dius\Desktop\SZUDOKU.CLI\SZUDOKU.CLI\obj\Debug\SZUDOKU.CLI.csprojAssemblyReference.cache
+C:\Users\Dius\Desktop\SZUDOKU.CLI\SZUDOKU.CLI\obj\Debug\SZUDOKU.CLI.csproj.CoreCompileInputs.cache
+C:\Users\Dius\Desktop\SZUDOKU.CLI\SZUDOKU.CLI\bin\Debug\SZUDOKU.CLI.exe.config
+C:\Users\Dius\Desktop\SZUDOKU.CLI\SZUDOKU.CLI\bin\Debug\SZUDOKU.CLI.exe
+C:\Users\Dius\Desktop\SZUDOKU.CLI\SZUDOKU.CLI\bin\Debug\SZUDOKU.CLI.pdb
+C:\Users\Dius\Desktop\SZUDOKU.CLI\SZUDOKU.CLI\obj\Debug\SZUDOKU.CLI.exe
+C:\Users\Dius\Desktop\SZUDOKU.CLI\SZUDOKU.CLI\obj\Debug\SZUDOKU.CLI.pdb
