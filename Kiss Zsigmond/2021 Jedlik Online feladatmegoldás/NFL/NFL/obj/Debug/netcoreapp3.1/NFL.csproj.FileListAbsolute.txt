@@ -1,0 +1,14 @@
+C:\Users\Kizsi\OneDrive\Asztali gép\Katonaa\12c2\12c2\Kiss Zsigmond\2021 Jedlik Online feladatmegoldás\NFL\NFL\bin\Debug\netcoreapp3.1\NFL.exe
+C:\Users\Kizsi\OneDrive\Asztali gép\Katonaa\12c2\12c2\Kiss Zsigmond\2021 Jedlik Online feladatmegoldás\NFL\NFL\bin\Debug\netcoreapp3.1\NFL_iranyitok.txt
+C:\Users\Kizsi\OneDrive\Asztali gép\Katonaa\12c2\12c2\Kiss Zsigmond\2021 Jedlik Online feladatmegoldás\NFL\NFL\bin\Debug\netcoreapp3.1\NFL.deps.json
+C:\Users\Kizsi\OneDrive\Asztali gép\Katonaa\12c2\12c2\Kiss Zsigmond\2021 Jedlik Online feladatmegoldás\NFL\NFL\bin\Debug\netcoreapp3.1\NFL.runtimeconfig.json
+C:\Users\Kizsi\OneDrive\Asztali gép\Katonaa\12c2\12c2\Kiss Zsigmond\2021 Jedlik Online feladatmegoldás\NFL\NFL\bin\Debug\netcoreapp3.1\NFL.runtimeconfig.dev.json
+C:\Users\Kizsi\OneDrive\Asztali gép\Katonaa\12c2\12c2\Kiss Zsigmond\2021 Jedlik Online feladatmegoldás\NFL\NFL\bin\Debug\netcoreapp3.1\NFL.dll
+C:\Users\Kizsi\OneDrive\Asztali gép\Katonaa\12c2\12c2\Kiss Zsigmond\2021 Jedlik Online feladatmegoldás\NFL\NFL\bin\Debug\netcoreapp3.1\NFL.pdb
+C:\Users\Kizsi\OneDrive\Asztali gép\Katonaa\12c2\12c2\Kiss Zsigmond\2021 Jedlik Online feladatmegoldás\NFL\NFL\obj\Debug\netcoreapp3.1\NFL.csprojAssemblyReference.cache
+C:\Users\Kizsi\OneDrive\Asztali gép\Katonaa\12c2\12c2\Kiss Zsigmond\2021 Jedlik Online feladatmegoldás\NFL\NFL\obj\Debug\netcoreapp3.1\NFL.AssemblyInfoInputs.cache
+C:\Users\Kizsi\OneDrive\Asztali gép\Katonaa\12c2\12c2\Kiss Zsigmond\2021 Jedlik Online feladatmegoldás\NFL\NFL\obj\Debug\netcoreapp3.1\NFL.AssemblyInfo.cs
+C:\Users\Kizsi\OneDrive\Asztali gép\Katonaa\12c2\12c2\Kiss Zsigmond\2021 Jedlik Online feladatmegoldás\NFL\NFL\obj\Debug\netcoreapp3.1\NFL.csproj.CoreCompileInputs.cache
+C:\Users\Kizsi\OneDrive\Asztali gép\Katonaa\12c2\12c2\Kiss Zsigmond\2021 Jedlik Online feladatmegoldás\NFL\NFL\obj\Debug\netcoreapp3.1\NFL.dll
+C:\Users\Kizsi\OneDrive\Asztali gép\Katonaa\12c2\12c2\Kiss Zsigmond\2021 Jedlik Online feladatmegoldás\NFL\NFL\obj\Debug\netcoreapp3.1\NFL.pdb
+C:\Users\Kizsi\OneDrive\Asztali gép\Katonaa\12c2\12c2\Kiss Zsigmond\2021 Jedlik Online feladatmegoldás\NFL\NFL\obj\Debug\netcoreapp3.1\NFL.genruntimeconfig.cache

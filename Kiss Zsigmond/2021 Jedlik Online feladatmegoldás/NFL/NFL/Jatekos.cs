@@ -14,6 +14,13 @@ namespace NFL
         public int Eladott  { get; set; }
         public double Mutató{ get; set; }
         public string Egyetem { get; set; }
+        public int YardMeterben
+        {
+            get
+            {
+                return (int)Math.Round(Yardok * 0.9144);
+            }
+        }
 
         public Jatekos(string sor)
         {
@@ -23,8 +30,9 @@ namespace NFL
             Kísérletek = int.Parse(adatok[2]);
             Passzok = int.Parse(adatok[3]);
             TDk = int.Parse(adatok[4]);
+            Eladott = int.Parse(adatok[5]);
             Mutató = Konvertal(adatok[6]);
-            Egyetem = adatok[1]; 
+            Egyetem = adatok[7]; 
             
 
         }
