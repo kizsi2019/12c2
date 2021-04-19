@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7/i9u4/tuuKw2xuQX21KblNKfhfVR+kXULflKm5BxGrleYWPFtjUViIITGkIi2lAFx5HE7bgKZEKsFePLDMbRg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kizsi\\OneDrive\\Asztali gép\\Katonaa\\12c2\\12c2\\Kiss Zsigmond\\2021 Jedlik Online feladatmegoldás\\NFL\\NFL\\NFL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kizsi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

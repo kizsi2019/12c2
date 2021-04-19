@@ -1,0 +1,10 @@
+private double Szamol(int kiserlet, int sikeres, int yardok, int tdPassz, int eladott)
+{
+	double a, b, c, d;
+	a = MinMax(((double)sikeres / kiserlet - 0.3) * 5);
+	b = MinMax(((double)yardok / kiserlet - 3) * 0.25);
+	c = MinMax(((double)tdPassz / kiserlet) * 20);
+	d = MinMax(2.375 - ((double)eladott / kiserlet) * 25);
+
+	return 100 * (a + b + c + d) / 6;
+}
