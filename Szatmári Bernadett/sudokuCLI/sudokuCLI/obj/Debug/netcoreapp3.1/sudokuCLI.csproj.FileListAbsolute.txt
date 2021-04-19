@@ -1,0 +1,12 @@
+C:\Users\diak\Desktop\programozás gyakorlat\szudoku\sudokuCLI\sudokuCLI\bin\Debug\netcoreapp3.1\sudokuCLI.exe
+C:\Users\diak\Desktop\programozás gyakorlat\szudoku\sudokuCLI\sudokuCLI\bin\Debug\netcoreapp3.1\feladvanyok.txt
+C:\Users\diak\Desktop\programozás gyakorlat\szudoku\sudokuCLI\sudokuCLI\bin\Debug\netcoreapp3.1\sudokuCLI.deps.json
+C:\Users\diak\Desktop\programozás gyakorlat\szudoku\sudokuCLI\sudokuCLI\bin\Debug\netcoreapp3.1\sudokuCLI.runtimeconfig.json
+C:\Users\diak\Desktop\programozás gyakorlat\szudoku\sudokuCLI\sudokuCLI\bin\Debug\netcoreapp3.1\sudokuCLI.runtimeconfig.dev.json
+C:\Users\diak\Desktop\programozás gyakorlat\szudoku\sudokuCLI\sudokuCLI\bin\Debug\netcoreapp3.1\sudokuCLI.dll
+C:\Users\diak\Desktop\programozás gyakorlat\szudoku\sudokuCLI\sudokuCLI\bin\Debug\netcoreapp3.1\sudokuCLI.pdb
+C:\Users\diak\Desktop\programozás gyakorlat\szudoku\sudokuCLI\sudokuCLI\obj\Debug\netcoreapp3.1\sudokuCLI.csprojAssemblyReference.cache
+C:\Users\diak\Desktop\programozás gyakorlat\szudoku\sudokuCLI\sudokuCLI\obj\Debug\netcoreapp3.1\sudokuCLI.AssemblyInfoInputs.cache
+C:\Users\diak\Desktop\programozás gyakorlat\szudoku\sudokuCLI\sudokuCLI\obj\Debug\netcoreapp3.1\sudokuCLI.AssemblyInfo.cs
+C:\Users\diak\Desktop\programozás gyakorlat\szudoku\sudokuCLI\sudokuCLI\obj\Debug\netcoreapp3.1\sudokuCLI.dll
+C:\Users\diak\Desktop\programozás gyakorlat\szudoku\sudokuCLI\sudokuCLI\obj\Debug\netcoreapp3.1\sudokuCLI.pdb
